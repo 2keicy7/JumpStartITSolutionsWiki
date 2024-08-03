@@ -1,1 +1,1 @@
-This folder contains images for Educational Attainment Library.
+This folder contains images for Educational Attainment Library form.
